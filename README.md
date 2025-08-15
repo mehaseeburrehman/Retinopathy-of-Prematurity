@@ -71,8 +71,7 @@ ml-retinal-classifier/
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/mehaseeburrehman/Retinopathy-of-Prematurity.git
-cd <repo-name>
+git clone https://github.com/mehaseeburrehman/Retinopathy-of-Prematurity.git
 ```
 
 ### 2️⃣ Open in VS Code
