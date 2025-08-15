@@ -75,9 +75,6 @@ git clone https://github.com/mehaseeburrehman/Retinopathy-of-Prematurity.git
 ```
 
 ### 2️⃣ Open in VS Code
-```bash
-code .
-```
 
 ### 3️⃣ Install Dependencies
 
