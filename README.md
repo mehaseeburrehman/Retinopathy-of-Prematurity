@@ -71,7 +71,7 @@ ml-retinal-classifier/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+https://github.com/mehaseeburrehman/Retinopathy-of-Prematurity.git
 cd <repo-name>
 ```
 
@@ -128,7 +128,7 @@ npm run dev
 
 ### 1. Create Account
 - Click **Register** tab  
-- Enter username & password (min. 6 characters)  
+- Enter username & password 
 - Click **Register**
 
 ### 2. Login
@@ -137,13 +137,12 @@ npm run dev
 
 ### 3. Make Predictions
 - **Upload Image** — Click *Upload Eye Image* and select a retinal image  
-- **Use Samples** — Click any sample image to load it  
 - **Analyze** — Click *Analyze Image* button  
 - **View Results** — Confidence percentages for each class
 
 ### 4. View History
 - Go to **Prediction History** tab  
-- Click *Load History* to see past predictions  
+- To see past predictions  
 - Click *Download CSV* to export data
 
 ---
@@ -152,6 +151,6 @@ npm run dev
 **Frontend**: Next.js 14, React, Tailwind CSS, Radix UI  
 **Backend**: FastAPI, Uvicorn, Python 3.8+  
 **AI Model**: VGG16 + SegNet, PyTorch, Torchvision  
-**Database**: SQLite (better-sqlite3)  
+**Database**: SQLite
 
 ---
