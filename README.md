@@ -95,12 +95,6 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-```bash
-# Or create a virtual environment first (recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
 **Add Model File:**
 - Place `Vgg16+Segnet_model.pth` in the `python-api/` folder.
 
