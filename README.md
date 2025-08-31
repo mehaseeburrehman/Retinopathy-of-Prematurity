@@ -86,6 +86,13 @@ npm install
 **Backend (Python API):**
 ```bash
 cd python-api
+```
+**Create virtual environment:**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+```bash
 pip install -r requirements.txt
 ```
 ```bash
